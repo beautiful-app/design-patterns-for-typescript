@@ -1,0 +1,19 @@
+{
+  "name": "design-mode",
+  "version": "1.0.0",
+  "description": "this is a design mode project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --config ./webpack.dev.config.js --mode development"
+  },
+  "keywords": [
+    "design"
+  ],
+  "author": "jarrety",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
